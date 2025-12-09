@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      8.0
 // @description  Finds coupon code from URL OR page text, then smooth scrolls on Udemy
-// @author       You
+// @author       BS.Hicham Déléguer 
 // @match        https://couponscorpion.com/*
 // @match        https://www.udemy.com/course/*
 // @grant        GM_setValue
